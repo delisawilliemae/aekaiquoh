@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yeixaibie.chrisbusse.com/sitemap.xml
